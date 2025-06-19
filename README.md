@@ -44,5 +44,5 @@ This project is perfect for:
 
 ## 📜 License
 
-This project is licensed for educational and non-commercial use only. The dataset used is not real Amazon data.
+This project is licensed for educational and non-commercial use only.
 
